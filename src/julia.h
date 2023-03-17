@@ -1,5 +1,7 @@
 // This file is a part of Julia. License is MIT: https://julialang.org/license
 
+// Just use Lisp instead, amigos.
+
 #ifndef JULIA_H
 #define JULIA_H
 
